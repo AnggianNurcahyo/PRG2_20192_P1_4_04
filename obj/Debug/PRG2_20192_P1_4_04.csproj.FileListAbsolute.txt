@@ -1,0 +1,5 @@
+C:\Users\Anggian\source\repos\PRG2_20192_P1_4_04\bin\Debug\PRG2_20192_P1_4_04.exe
+C:\Users\Anggian\source\repos\PRG2_20192_P1_4_04\bin\Debug\PRG2_20192_P1_4_04.pdb
+C:\Users\Anggian\source\repos\PRG2_20192_P1_4_04\obj\Debug\PRG2_20192_P1_4_04.exe
+C:\Users\Anggian\source\repos\PRG2_20192_P1_4_04\obj\Debug\PRG2_20192_P1_4_04.pdb
+C:\Users\Anggian\source\repos\PRG2_20192_P1_4_04\obj\Debug\PRG2_20192_P1_4_04.csprojAssemblyReference.cache
